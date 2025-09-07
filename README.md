@@ -2,7 +2,7 @@
 <br>🧬 I’m passionate about leveraging computational tools (Python, R) to solve biological problems, especially in genomics and transcriptomics.</br>
 <br>🔬 I’m currently sharpening my skills in RNA-seq analysis and building robust data pipelines.</br>
 <br>🤝 I’m looking to collaborate on open-source bioinformatics projects or genomics research.</br>
-<br>📫 Reach me at: aminahanaan0310@gmail.com </br></p>
+<br>📫 Reach me at: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminahanaan0310@gmail.com) </br></p>
 
 ## ✅ Completed projects:
 ### [Bulk RNA-Seq Analysis Project with GSEA](https://github.com/AminaHanan246/bulk_rna_seq_prj)
@@ -18,10 +18,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AminaHanan246&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AminaHanan246&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHanan246&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminahanaan0310@gmail.com) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHanan246&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AminaHanan246&icon=1&color=0)](https://visitcount.itsvg.in)
