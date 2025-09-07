@@ -3,7 +3,13 @@
 - I’m currently learning python, R and SQL
 - I’m looking to collaborate on genomics project
 
-  
+## ✅ Completed projects:
+- **Bulk RNA-Seq Analysis Project with GSEA**
+  Objective: To identify transcriptomic changes and altered biological pathways in prostate cancer cells (LNCaP and PC3) induced by oxygen deprivation (hypoxia).
+
+## Ongoing:
+- **Single-cell RNA seq**
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminahanaan0310@gmail.com) 
 
