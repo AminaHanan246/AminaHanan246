@@ -7,7 +7,7 @@
 ## ✅ Completed projects:
 ### [Bulk RNA-Seq Analysis Project with GSEA](https://github.com/AminaHanan246/bulk_rna_seq_prj)
 **Tech Stacks:** `Bash scripting` `Python` `R` `FASTQC` `Trimmomatic` `HISAT2` `SAMtools` `featureCounts` `DESeq2` `GSEA`
-To identify transcriptomic changes and altered biological pathways in prostate cancer cells (LNCaP and PC3) induced by oxygen deprivation (hypoxia).
+<p>To identify transcriptomic changes and altered biological pathways in prostate cancer cells (LNCaP and PC3) induced by oxygen deprivation (hypoxia).</p>
 
 ## ⏳ Ongoing:
 ### [Single-cell RNA seq](https://github.com/AminaHanan246/scRNA)
