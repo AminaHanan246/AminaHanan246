@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Amina Hanaan 
-- 🧬 I’m passionate about leveraging computational tools (Python, R) to solve biological problems, especially in genomics and transcriptomics.
-- 🔬 I’m currently sharpening my skills in RNA-seq analysis and building robust data pipelines.
-- 🤝 I’m looking to collaborate on open-source bioinformatics projects or genomics research.
-- 📫 Reach me at: **aminahanaan0310@gmail.com** 
+<p>👋 Hi, I’m Amina Hanaan</br>
+<br>🧬 I’m passionate about leveraging computational tools (Python, R) to solve biological problems, especially in genomics and transcriptomics.</br>
+<br>🔬 I’m currently sharpening my skills in RNA-seq analysis and building robust data pipelines.</br>
+<br>🤝 I’m looking to collaborate on open-source bioinformatics projects or genomics research.</br>
+<br>📫 Reach me at: **aminahanaan0310@gmail.com**</br>
 
 ## ✅ Completed projects:
 ### [Bulk RNA-Seq Analysis Project with GSEA](https://github.com/AminaHanan246/bulk_rna_seq_prj)
