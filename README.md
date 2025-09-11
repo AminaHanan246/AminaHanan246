@@ -10,9 +10,7 @@
 ### [Bulk RNA-Seq Analysis Project with GSEA](https://github.com/AminaHanan246/bulk_rna_seq_prj)
 **Tech Stacks:** `Bash scripting` `Python` `R` `FASTQC` `Trimmomatic` `HISAT2` `SAMtools` `featureCounts` `DESeq2` `GSEA`
 <p>
-● Implemented and documented complete bulk RNA-seq workflow from raw SRA data to differential expression and pathway enrichment for 8 samples under 4 condition (~78,894 genes) 
-● Performed preprocessing steps such as quality control (FastQC), alignment (HISAT2), quantification (featureCounts), and analysed differential expressions in genes (DESeq2) and pathway enrichment (GSEA) 
-● Generated PCA plots, heatmaps , volcano plots and enrichment plots </p>
+Implemented and documented complete bulk RNA-seq workflow from raw SRA data to differential expression and pathway enrichment analysis for 8 samples under 4 condition (~78,894 genes)</p>
 
 ## ⏳ Ongoing:
 ### [Single-cell RNA seq](https://github.com/AminaHanan246/scRNA)
