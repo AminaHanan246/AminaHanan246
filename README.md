@@ -1,4 +1,4 @@
-👋 Hi, I’m Amina Hanaan</br>
+👋 Hi, I’m Hanaan</br>
 <br>🧬 I’m passionate about leveraging computational tools (Python, R) to solve biological problems, especially in genomics and transcriptomics.</br>
 🔬 I’m currently sharpening my skills in RNA-seq analysis and building robust data pipelines.</br>
 🤝 I’m looking to collaborate on open-source bioinformatics projects or genomics research.</br>
