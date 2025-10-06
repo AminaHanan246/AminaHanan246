@@ -13,6 +13,9 @@
 Implemented and documented complete bulk RNA-seq workflow from raw SRA data to differential expression and pathway enrichment analysis for 8 samples under 4 condition (~78,894 genes)</p>
 
 ## ⏳ Ongoing:
+### [Machine Learning for Breast Cancer detection](https://github.com/AminaHanan246/ML_wisconsin_breast_cancer)
+**Tech Stacks:** `Python` `Scikit-learn` `Logistic-Regression` `Decision-Tree` `Random-Forest` `Hyperparameter-tuning`
+
 ### [Single-cell RNA seq](https://github.com/AminaHanan246/scRNA)
 **Tech Stacks:** `R` `Seurat` 
 
