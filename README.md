@@ -24,8 +24,8 @@ Implemented and documented a complete bulk RNA-seq workflow from raw SRA data to
 ### [Single-cell RNA seq](https://github.com/AminaHanan246/scRNA)
 **Tech Stacks:** `R` `Seurat` 
 
-## Fundamentals & Case studies:
-### [Bioinfo-tasks](https://github.com/AminaHanan246/bioinfo_tasks.git))
+## 🧬 Fundamentals & Case studies:
+### [Bioinfo-tasks](https://github.com/AminaHanan246/bioinfo_tasks.git)
 <p>
   A series of tasks that are core to bioinformatic skills.
 </p>
