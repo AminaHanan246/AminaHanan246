@@ -18,7 +18,7 @@ Developed and documented a machine learning workflow from raw gene expression da
 Implemented and documented a complete bulk RNA-seq workflow from raw SRA data to differential expression and pathway enrichment analysis for 8 samples under 4 conditions (~78,894 genes)</p>
 
 ## ⏳ Ongoing:
-### [Variant Calling for WES data of Hypertrophic Cardiomyopathy (HCM) patients](https://github.com/AminaHanan246/variant_call_hcm.git)
+### [Variant Calling Pipeline for WES data](https://github.com/AminaHanan246/variant_call_hcm.git)
 **Tech Stacks:** `Nextflow` `BWA-MEM` `GATK`
 
 ### [Machine Learning for Breast Cancer detection](https://github.com/AminaHanan246/ML_wisconsin_breast_cancer)
