@@ -7,6 +7,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminahanaan0310@gmail.com)  
 
 ## ✅ Completed projects:
+### [Variant Calling Pipeline for WES data](https://github.com/AminaHanan246/variant_call_hcm.git)
+**Tech Stacks:** `Nextflow` `BWA-MEM` `GATK` `fastp` `picard` `bcftools` `Conda`
+<p>
+Developed scalable pipeline for Whole Exome Sequence analysis, that automates workflow from raw reads to filtered-variants and ability to handle multiple cohort samples. Built using Mextflow and following GATK best practises documentation. </p>
+
 ### [Machine Learning for Gene classification of Alzheimer's Disease](https://github.com/AminaHanan246/ML_alzheimer_gene_.git)
 **Tech Stacks:** `Python` `Scikit-learn` `Logistic-Regression`  `Random-Forest` `XGBoost` `Cross-validation` `Hyperparameter-tuning` `SHAP` `PCA` `Top features`
 <p>
@@ -18,9 +23,6 @@ Developed and documented a machine learning workflow from raw gene expression da
 Implemented and documented a complete bulk RNA-seq workflow from raw SRA data to differential expression and pathway enrichment analysis for 8 samples under 4 conditions (~78,894 genes)</p>
 
 ## ⏳ Ongoing:
-### [Variant Calling Pipeline for WES data](https://github.com/AminaHanan246/variant_call_hcm.git)
-**Tech Stacks:** `Nextflow` `BWA-MEM` `GATK`
-
 ### [Machine Learning for Breast Cancer detection](https://github.com/AminaHanan246/ML_wisconsin_breast_cancer)
 **Tech Stacks:** `Python` `Scikit-learn` `Logistic-Regression` `Decision-Tree` `Random-Forest` `Hyperparameter-tuning`
 
